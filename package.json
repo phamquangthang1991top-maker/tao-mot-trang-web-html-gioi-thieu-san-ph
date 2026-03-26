@@ -1,0 +1,29 @@
+{
+  "name": "gom-su-nam-viet-website",
+  "version": "1.0.0",
+  "description": "Website gioi thieu san pham gom su Nam Viet - Tinh hoa nghe thu cong truyen thong",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "gom su",
+    "nam viet",
+    "pottery",
+    "ceramic",
+    "thu cong",
+    "truyen thong"
+  ],
+  "author": "Gom Su Nam Viet",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
